@@ -1,5 +1,7 @@
 # VLM-demos
 
+Collect large multimodal language models that have online demos available.
+
 |Release Date | GitHub|Demo|
 |-------------|--------|----|
 | 2023.10.05  | [CogVLM](https://github.com/THUDM/CogVLM?tab=readme-ov-file#introduction-to-cogvlm)|  [link](http://36.103.203.44:7861/) |
@@ -9,7 +11,6 @@
 | 2023.12.15  | [CogAgent](https://github.com/THUDM/CogVLM?tab=readme-ov-file#introduction-to-cogagent)|  [link](http://36.103.203.44:7861/) |
 | 2024.01.18 | [Qwen/Qwen-VL-Max](https://github.com/QwenLM/Qwen-VL) | [link](https://huggingface.co/spaces/Qwen/Qwen-VL-Max) |
 | 2024.01.23 | [Vary-toy](https://github.com/Ucas-HaoranWei/Vary-toy)| [link](https://vary.xiaomy.net/) |
-| 2024.01.23 | [01-Yi](https://github.com/01-ai/Yi) | [link](https://huggingface.co/spaces/01-ai/Yi-34B-Chat) |
 | 2024.01.27 | [MoE LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA)| [link](https://huggingface.co/spaces/LanguageBind/MoE-LLaVA)|
 | 2024.01.30 | [LLaVA-NeXT(llava-v1.6-34b)](https://github.com/haotian-liu/LLaVA) | [link](https://llava.hliu.cc/)|
 | 2024.02.18 | [ALLaVA](https://github.com/FreedomIntelligence/ALLaVA?tab=readme-ov-file)  | [link](https://allava.freedomai.cn/#/) |
