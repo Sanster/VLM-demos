@@ -13,6 +13,7 @@ Collect large multimodal language models that have online demos available.
 | 2024.01.23 | [Vary-toy](https://github.com/Ucas-HaoranWei/Vary-toy)| [link](https://vary.xiaomy.net/) |
 | 2024.01.27 | [MoE LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA)| [link](https://huggingface.co/spaces/LanguageBind/MoE-LLaVA)|
 | 2024.01.30 | [LLaVA-NeXT(llava-v1.6-34b)](https://github.com/haotian-liu/LLaVA) | [link](https://llava.hliu.cc/)|
+| 2024.02.07 | [Bunny](https://github.com/BAAI-DCAI/Bunny?tab=readme-ov-file) | [link](https://wisemodel.cn/space/baai/Bunny) |
 | 2024.02.18 | [ALLaVA](https://github.com/FreedomIntelligence/ALLaVA?tab=readme-ov-file)  | [link](https://allava.freedomai.cn/#/) |
 | 2024.03.06 | [moondream2](https://github.com/vikhyat/moondream) | [link](https://huggingface.co/spaces/vikhyatk/moondream2) |
 | 2024.03.07 | [TextMonkey](https://github.com/Yuliang-Liu/Monkey) | [link](http://vlrlab-monkey.xyz:7684/)
