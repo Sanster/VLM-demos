@@ -11,6 +11,7 @@ Collect large multimodal language models that have online demos available.
 | 2023.12.15  | [CogAgent](https://github.com/THUDM/CogVLM?tab=readme-ov-file#introduction-to-cogagent)|  [demo](http://36.103.203.44:7861/) |
 | 2024.01.18 | [Qwen/Qwen-VL-Max](https://github.com/QwenLM/Qwen-VL) | [demo](https://huggingface.co/spaces/Qwen/Qwen-VL-Max) |
 | 2024.01.23 | [Vary-toy](https://github.com/Ucas-HaoranWei/Vary-toy)| [demo](https://vary.xiaomy.net/) |
+| 2024.01.26 | [InternLM-XComposer2](https://github.com/InternLM/InternLM-XComposer)  | [demo](https://huggingface.co/spaces/Willow123/InternLM-XComposer) |
 | 2024.01.27 | [MoE LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA)| [demo](https://huggingface.co/spaces/LanguageBind/MoE-LLaVA)|
 | 2024.01.30 | [LLaVA-NeXT(llava-v1.6-34b)](https://github.com/haotian-liu/LLaVA) | [demo](https://llava.hliu.cc/)|
 | 2024.02.07 | [Bunny](https://github.com/BAAI-DCAI/Bunny?tab=readme-ov-file) | [demo](https://wisemodel.cn/space/baai/Bunny) |
