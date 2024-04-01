@@ -5,6 +5,7 @@ Collect large multimodal language models that have online demos available.
 |Release Date | GitHub|Demo|
 |-------------|--------|----|
 | 2023.07.07 | [mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl?tab=readme-ov-file) | [demo](https://modelscope.cn/studios/iic/mPLUG-DocOwl/summary)|
+| 2023 | [DocMaster](https://github.com/AlibabaResearch/AdvancedLiterateMachinery?tab=readme-ov-file) | [demo](https://www.modelscope.cn/studios/iic/DocMaster/summary) |
 | 2023.10.05  | [CogVLM](https://github.com/THUDM/CogVLM?tab=readme-ov-file#introduction-to-cogvlm)|  [demo](http://36.103.203.44:7861/) |
 | 2023.11.06 | [Monkey](https://github.com/Yuliang-Liu/Monkey) | [demo](http://27.18.93.119:7681/)|
 | 2023.11.28 | [Qwen/Qwen-VL-Plus](https://github.com/QwenLM/Qwen-VL) | [demo](https://huggingface.co/spaces/Qwen/Qwen-VL-Plus)|
