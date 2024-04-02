@@ -21,4 +21,4 @@ Collect large multimodal language models that have online demos available.
 | 2024.03.06 | [moondream2](https://github.com/vikhyat/moondream) | [demo](https://huggingface.co/spaces/vikhyatk/moondream2) |
 | 2024.03.07 | [TextMonkey](https://github.com/Yuliang-Liu/Monkey) | [demo](http://vlrlab-monkey.xyz:7684/)
 | 2024.03.11 | [DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL) | [demo](https://huggingface.co/spaces/deepseek-ai/DeepSeek-VL-7B)
-| 2024.03.28 | [MiniGemini](https://github.com/dvlab-research/MiniGemini?tab=readme-ov-file) | [demo](https://github.com/dvlab-research/MiniGemini?tab=readme-ov-file) |
+| 2024.03.28 | [MiniGemini](https://github.com/dvlab-research/MiniGemini?tab=readme-ov-file) | [demo](http://103.170.5.190:7860/) |
