@@ -22,3 +22,4 @@ Collect large multimodal language models that have online demos available.
 | 2024.03.07 | [TextMonkey](https://github.com/Yuliang-Liu/Monkey) | [demo](http://vlrlab-monkey.xyz:7684/)
 | 2024.03.11 | [DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL) | [demo](https://huggingface.co/spaces/deepseek-ai/DeepSeek-VL-7B)
 | 2024.03.28 | [MiniGemini](https://github.com/dvlab-research/MiniGemini?tab=readme-ov-file) | [demo](http://103.170.5.190:7860/) |
+| 2024.04.12 | [MiniCPM-V 2.0](https://github.com/OpenBMB/MiniCPM-V?tab=readme-ov-file#demo) | [demo](http://120.92.209.146/)|
